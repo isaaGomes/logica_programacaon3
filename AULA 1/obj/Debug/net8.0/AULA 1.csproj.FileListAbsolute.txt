@@ -1,0 +1,14 @@
+C:\Users\isabela.gsilva5\source\repos\AULA 1\bin\Debug\net8.0\AULA 1.exe
+C:\Users\isabela.gsilva5\source\repos\AULA 1\bin\Debug\net8.0\AULA 1.deps.json
+C:\Users\isabela.gsilva5\source\repos\AULA 1\bin\Debug\net8.0\AULA 1.runtimeconfig.json
+C:\Users\isabela.gsilva5\source\repos\AULA 1\bin\Debug\net8.0\AULA 1.dll
+C:\Users\isabela.gsilva5\source\repos\AULA 1\bin\Debug\net8.0\AULA 1.pdb
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\AULA 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\AULA 1.AssemblyInfoInputs.cache
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\AULA 1.AssemblyInfo.cs
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\AULA 1.csproj.CoreCompileInputs.cache
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\AULA 1.dll
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\refint\AULA 1.dll
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\AULA 1.pdb
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\AULA 1.genruntimeconfig.cache
+C:\Users\isabela.gsilva5\source\repos\AULA 1\obj\Debug\net8.0\ref\AULA 1.dll
