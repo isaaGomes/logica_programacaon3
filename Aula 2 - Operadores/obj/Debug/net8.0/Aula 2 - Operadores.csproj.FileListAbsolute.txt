@@ -1,0 +1,14 @@
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\Aula 2 - Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\Aula 2 - Operadores.AssemblyInfoInputs.cache
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\Aula 2 - Operadores.AssemblyInfo.cs
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\Aula 2 - Operadores.csproj.CoreCompileInputs.cache
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\bin\Debug\net8.0\Aula 2 - Operadores.exe
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\bin\Debug\net8.0\Aula 2 - Operadores.deps.json
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\bin\Debug\net8.0\Aula 2 - Operadores.runtimeconfig.json
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\bin\Debug\net8.0\Aula 2 - Operadores.dll
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\bin\Debug\net8.0\Aula 2 - Operadores.pdb
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\Aula 2 - Operadores.dll
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\refint\Aula 2 - Operadores.dll
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\Aula 2 - Operadores.pdb
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\Aula 2 - Operadores.genruntimeconfig.cache
+C:\Users\isabela.gsilva5\source\repos\Aula 2 - Operadores\obj\Debug\net8.0\ref\Aula 2 - Operadores.dll
